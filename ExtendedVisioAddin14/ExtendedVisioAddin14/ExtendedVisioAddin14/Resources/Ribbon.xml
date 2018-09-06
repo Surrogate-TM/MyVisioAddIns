@@ -7,15 +7,15 @@
 
         </group>
       </tab>-->
-      <tab id="table1" label="Test" getVisible="IsRibbonCommandEnabled">
+      <tab id="table1" label="HardCore" getVisible="IsRibbonCommandEnabled">
         <group id="group1" label="Операции с файлом">
-          <button id="Btn_CFP" label="Изменить свойства файла" size="large" imageMso="GroupWebCode" onAction="OnRibbonButtonClick" screentip="Изменить свойства файла" supertip ="Вызов диалогового окна изменения свойств файла"/>
-          <button id="Btn_newtable" label="Экспортировать в PDF" size="large" imageMso="FileSaveAsPdfOrXps" onAction="OnRibbonButtonClick" screentip="Создание таблицы" supertip ="Вызов диалогового окна для создания новой таблицы"/>
+          <button id="BtnCFP" label="Изменить свойства файла" size="large" imageMso="GroupWebCode" onAction="OnRibbonButtonClick" screentip="Изменить свойства файла" supertip ="Вызов диалогового окна изменения свойств файла"/>
+          <button id="BtnPDF" label="Экспортировать в PDF" size="large" imageMso="FileSaveAsPdfOrXps" onAction="OnRibbonButtonClick" screentip="Создание таблицы" supertip ="Вызов диалогового окна для создания новой таблицы"/>
         </group>
         <group id="group2" label="Операции со спецификацией">
-          <button id="btn1" label="Импортировать из Excel" size="large" imageMso="ImportExcel" onAction="OnRibbonButtonClick" screentip="Импортировать из Excel" supertip ="Вызов диалогового окна изменения свойств файла"/>
-          <button id="btn2" label="Экспортировать в Excel" size="large" imageMso="ExportExcel" onAction="OnRibbonButtonClick" screentip="Экспортировать в Excel" supertip ="Вызов диалогового окна для создания новой таблицы"/>
-          <button id="btn3" label="Удалить спецификацию" size="large" imageMso="DeleteTable" onAction="OnRibbonButtonClick" screentip="Создание таблицы" supertip ="Вызов диалогового окна для создания новой таблицы"/>          
+          <button id="BtnImp" label="Импортировать из Excel" size="large" imageMso="ImportExcel" onAction="OnRibbonButtonClick" screentip="Импортировать из Excel" supertip ="Вызов диалогового окна изменения свойств файла"/>
+          <button id="BtnExp" label="Экспортировать в Excel" size="large" imageMso="ExportExcel" onAction="OnRibbonButtonClick" screentip="Экспортировать в Excel" supertip ="Вызов диалогового окна для создания новой таблицы"/>
+          <button id="BtnDel" label="Удалить спецификацию" size="large" imageMso="DeleteTable" onAction="OnRibbonButtonClick" screentip="Создание таблицы" supertip ="Вызов диалогового окна для создания новой таблицы"/>          
         </group>
       </tab>
     </tabs>

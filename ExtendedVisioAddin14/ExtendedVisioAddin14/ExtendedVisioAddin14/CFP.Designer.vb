@@ -53,7 +53,9 @@ Partial Class CFP
         Me.Controls.Add(Me.BtnOK)
         Me.Controls.Add(Me.BtnCancel)
         Me.Name = "CFP"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Change"
+        Me.TopMost = True
         Me.ResumeLayout(False)
 
     End Sub

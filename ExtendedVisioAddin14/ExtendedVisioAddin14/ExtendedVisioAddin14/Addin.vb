@@ -15,12 +15,16 @@ Partial Public Class Addin
 
         Select Case commandId
             'Case "btn_newtable" : Load_dlgNewTable() : Return
-            Case "btn_CFP" : xxx.Load_CFP() : Return
+            Case "BtnCFP" : Load_CFP() : Return
+            Case "BtnPDF" : MsgBox("Export to PDF") : Return
+            Case "BtnImp" : MsgBox("Import specification") : Return
+            Case "BtnExp" : MsgBox("Export specification") : Return
+            Case "BtnDel" : MsgBox("Delete specification") : Return
         End Select
 
     End Sub
 
-#Region "RIBBONFUNCTIONS"
+#Region "RIBBONFUNCTIONS"""
 
     Public Function IsCommandAltEnabled(commandId As String) As Boolean
         Return Application IsNot Nothing AndAlso Application.ActiveWindow IsNot Nothing

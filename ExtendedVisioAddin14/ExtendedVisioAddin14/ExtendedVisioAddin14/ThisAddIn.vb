@@ -19,10 +19,13 @@ Partial Public Class ThisAddIn
     ''' 
     Public Sub OnCommand(commandId As String)
         Select Case commandId
-            Case "Btn_CFP"
+            Case "BtnCFP"
                 Load_CFP()
                 Return
-
+            Case "BtnPDF" : MsgBox("Export to PDF") : Return
+            Case "BtnImp" : MsgBox("Import specification") : Return
+            Case "BtnExp" : MsgBox("Export specification") : Return
+            Case "BtnDel" : MsgBox("Delete specification") : Return
                 'Case "Btn_newtable"
                 '    Btn_newtable()
                 '    Return
@@ -37,13 +40,24 @@ Partial Public Class ThisAddIn
     ''' 
     Public Function IsCommandEnabled(commandId As String) As Boolean
         Select Case commandId
-            Case "Btn_CFP"
+            Case "BtnCFP"
                 ' make command1 always enabled
                 Return True
-
-            Case "Btn_newtable"
-                ' make command2 enabled only if a window is opened
-                Return Application IsNot Nothing AndAlso Application.ActiveWindow IsNot Nothing AndAlso Application.ActiveWindow.Selection.Count > 0
+            Case "BtnPDF"
+                ' make command1 always enabled
+                Return True
+            Case "BtnImp"
+                ' make command1 always enabled
+                Return True
+            Case "BtnExp"
+                ' make command1 always enabled
+                Return True
+            Case "BtnDel"
+                ' make command1 always enabled
+                Return True
+                'Case "Btn_newtable"
+                '    ' make command2 enabled only if a window is opened
+                '    Return Application IsNot Nothing AndAlso Application.ActiveWindow IsNot Nothing AndAlso Application.ActiveWindow.Selection.Count > 0
             Case Else
                 Return True
         End Select
@@ -77,7 +91,6 @@ Partial Public Class ThisAddIn
 
     Sub UpdateUI()
         AddinUI.UpdateRibbon()
-
     End Sub
 
     Public Sub Application_SelectionChanged(window As Visio.Window)
