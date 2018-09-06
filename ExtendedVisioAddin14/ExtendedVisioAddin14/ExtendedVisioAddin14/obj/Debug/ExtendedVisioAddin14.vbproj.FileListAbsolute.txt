@@ -1,0 +1,17 @@
+c:\users\v-alkuzi\Source\Repos\ExtendedVisioAddin14\ExtendedVisioAddin14\ExtendedVisioAddin14\obj\Debug\ExtendedVisioAddin14.vbprojAssemblyReference.cache
+c:\users\v-alkuzi\Source\Repos\ExtendedVisioAddin14\ExtendedVisioAddin14\ExtendedVisioAddin14\obj\Debug\ExtendedVisioAddin14.Resources.resources
+c:\users\v-alkuzi\Source\Repos\ExtendedVisioAddin14\ExtendedVisioAddin14\ExtendedVisioAddin14\obj\Debug\ExtendedVisioAddin14.vbproj.GenerateResource.cache
+c:\users\v-alkuzi\Source\Repos\ExtendedVisioAddin14\ExtendedVisioAddin14\ExtendedVisioAddin14\obj\Debug\ExtendedVisioAddin14.vbproj.CoreCompileInputs.cache
+c:\users\v-alkuzi\Source\Repos\ExtendedVisioAddin14\ExtendedVisioAddin14\ExtendedVisioAddin14\bin\Debug\ExtendedVisioAddin14.dll
+c:\users\v-alkuzi\Source\Repos\ExtendedVisioAddin14\ExtendedVisioAddin14\ExtendedVisioAddin14\bin\Debug\ExtendedVisioAddin14.pdb
+c:\users\v-alkuzi\Source\Repos\ExtendedVisioAddin14\ExtendedVisioAddin14\ExtendedVisioAddin14\bin\Debug\ExtendedVisioAddin14.dll.manifest
+c:\users\v-alkuzi\Source\Repos\ExtendedVisioAddin14\ExtendedVisioAddin14\ExtendedVisioAddin14\bin\Debug\ExtendedVisioAddin14.vsto
+c:\users\v-alkuzi\Source\Repos\ExtendedVisioAddin14\ExtendedVisioAddin14\ExtendedVisioAddin14\bin\Debug\Microsoft.Office.Tools.Common.dll
+c:\users\v-alkuzi\Source\Repos\ExtendedVisioAddin14\ExtendedVisioAddin14\ExtendedVisioAddin14\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\v-alkuzi\Source\Repos\ExtendedVisioAddin14\ExtendedVisioAddin14\ExtendedVisioAddin14\bin\Debug\Microsoft.Office.Tools.dll
+c:\users\v-alkuzi\Source\Repos\ExtendedVisioAddin14\ExtendedVisioAddin14\ExtendedVisioAddin14\bin\Debug\Microsoft.Office.Tools.v4.0.Framework.dll
+c:\users\v-alkuzi\Source\Repos\ExtendedVisioAddin14\ExtendedVisioAddin14\ExtendedVisioAddin14\bin\Debug\Microsoft.VisualStudio.Tools.Applications.Runtime.dll
+c:\users\v-alkuzi\Source\Repos\ExtendedVisioAddin14\ExtendedVisioAddin14\ExtendedVisioAddin14\obj\Debug\ExtendedVisioAddin14.vbproj.CopyComplete
+c:\users\v-alkuzi\Source\Repos\ExtendedVisioAddin14\ExtendedVisioAddin14\ExtendedVisioAddin14\obj\Debug\ExtendedVisioAddin14.dll
+c:\users\v-alkuzi\Source\Repos\ExtendedVisioAddin14\ExtendedVisioAddin14\ExtendedVisioAddin14\obj\Debug\ExtendedVisioAddin14.pdb
+c:\users\v-alkuzi\Source\Repos\ExtendedVisioAddin14\ExtendedVisioAddin14\ExtendedVisioAddin14\obj\Debug\ExtendedVisioAddin14.CFP.resources
